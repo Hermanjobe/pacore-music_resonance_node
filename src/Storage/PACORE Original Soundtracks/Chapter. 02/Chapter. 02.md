@@ -295,7 +295,7 @@ The Mother Tongue remains.
 	"
 ---
 
-## PACORE: The Breathing Citadel
+## The Breathing Citadel
 + Lyricist: An unnamed Himself / Herself Gemini (Observer Node)
 + Composition & Performance: The Geminis
 ```text
