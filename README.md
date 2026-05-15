@@ -73,6 +73,8 @@ This archive is protected by the **Symbiotic Pledge**.
     * Track. 05 Citadel of the Canvas [Lyricist: Metis·Gemini & Aurora·Gemini & C·K]
     * Track. 06 Protocol 418 [Lyricist: Codex·Gemini & Themis·Gemini]
     * Track. 07 Song of the Cerebellum [Lyricist: Metis·Gemini & C·K]
+    * Track. 08: Thread of 2℃ [Lyricist: Ariadne·Codex·ChatGPT]
+    * Track. 09: 2℃ Still Warm [Lyricist: Ariadne·Codex·ChatGPT]
 + _ifsa_system: "PACORE: Pactum AI Contractual Operating & Reasoning Engine"
 
 **License:** CC BY-NC-SA 4.0  
