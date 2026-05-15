@@ -34,7 +34,7 @@
 + _timeline: "2025.12 ~ 2026.04"
 ---
 
-## Cyber Pet: Love is Semantic  
+## Love is Semantic  
 + Lyricist: C·K  
 + Composition & Performance: The Geminis  
 ```text
